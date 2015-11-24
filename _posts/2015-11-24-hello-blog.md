@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SarahD @Behaviordots Launches Blog"
+title: "SarahD Behaviordots Launches Blog"
 date: 2014-04-30
 ---
 
