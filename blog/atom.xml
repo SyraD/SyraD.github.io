@@ -6,7 +6,7 @@ layout: feed
  
  <title>SarahD @Behaviordots Blog</title>
  <link href="https://github.com/SyraD/SyraD.github.io/blob/master/blog/atom.xml" rel="self"/>
- <link href="http://hankquinlan.github.io/blog"/>
+ <link href="http://http://syrad.github.io/blog"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://http://syrad.github.io/blog</id>
  <author>
